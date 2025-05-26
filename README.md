@@ -17,19 +17,6 @@ A console-based demonstration of:
 - **RSA key generation, signing, and verification**
 - **Signature forgery attack simulation** (highlighting dangers of signing without hashing)
 
----
-
-## 📁 Project Structure
-
-cryptography_project/
-│
-├── part_a_GUI.py # ECC secure chat with GUI
-├── part_b.py # RSA signature & forgery simulation
-├── documentation&Q_Ans.pdf # Project documentation and Q&A section
-├── README.md # This file
-├── .gitignore # Files to ignore in version control
-└── LICENSE # MIT License
-
 
 
 ---
